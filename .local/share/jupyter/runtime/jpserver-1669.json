@@ -1,0 +1,13 @@
+{
+  "base_url": "/jupyter/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 1669,
+  "port": 8888,
+  "root_dir": "/root/snap/python-ai-toolkit/41",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://vero-pc:8888/jupyter/",
+  "version": "1.23.3"
+}
